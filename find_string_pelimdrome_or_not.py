@@ -1,6 +1,6 @@
 
 # Name    :- Om Mokate
-# Program :- Dead Calculator
+# Program :- find string is pelimdrom or not 
 #Date     :- 29 July 2022
 
 str = input("enter a string = ")
